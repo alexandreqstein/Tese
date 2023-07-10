@@ -3,5 +3,8 @@
 .Rdata
 .httr-oauth
 .DS_Store
-1_dados/
+1_data/
 3_results/
+Complexidade_empresas/1_data/
+Complexidade_empresas/3_results/
+0_referencias/
